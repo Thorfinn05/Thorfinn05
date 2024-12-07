@@ -5,13 +5,12 @@
 </p>
 
 <div align="center"> <img hight="300" width="500" alt="GIF" align="center" src="https://media1.tenor.com/m/qxK3flqZIucAAAAd/anime.gif"></div>
-<h3 align="center">I'm a passionate developer and designer exploring AI, Machine Learning, Web Development and UI/UX Designing 🚀</h3>
+<h2 align="center">I'm a passionate developer and designer exploring AI, Machine Learning, Web Development and UI/UX Designing 🚀</h2>
 
+</br>
 
-
+<h1 align="left">About Me 💬 </h1>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.webp">
-
----
 
 - 🌱 I’m currently learning **Next.js, React.js, NLP.**  
 - 💬 Ask me about **DSA, Python, C and Web Development.**  
