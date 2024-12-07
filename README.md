@@ -1,4 +1,4 @@
-<h1 align="center">Hello Peeps! 👋 I'm Rudranil Das</h1>
+<h1 align="center">Hello Peeps! 👋</h1>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Thorfinn05&label=Profile%20views&color=0e75b6&style=flat" alt="Thorfinn05" />
@@ -127,16 +127,10 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thorfinn05&show_icons=true&locale=en&layout=compact" alt="Thorfinn05" /></p>
+/*<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thorfinn05&show_icons=true&locale=en&layout=compact" alt="Thorfinn05" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Thorfinn05&show_icons=true&locale=en" alt="Thorfinn05" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Thorfinn05&show_icons=true&locale=en" alt="Thorfinn05" /></p>*
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thorfinn05&" alt="Thorfinn05" /></p>
 
 ---
-
-<h1 align="center">Watch the 🐍 eat my contribution graph</h1>
-<p align="center">
-  <img src="https://github.com/Thorfinn05/Thorfinn05/blob/output/github-contribution-grid-snake.png" alt="Snake Animation">
-</p>
-
