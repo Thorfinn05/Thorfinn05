@@ -127,9 +127,9 @@
 
 ---
 
-/*<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thorfinn05&show_icons=true&locale=en&layout=compact" alt="Thorfinn05" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thorfinn05&show_icons=true&locale=en&layout=compact" alt="Thorfinn05" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Thorfinn05&show_icons=true&locale=en" alt="Thorfinn05" /></p>*
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Thorfinn05&show_icons=true&locale=en" alt="Thorfinn05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thorfinn05&" alt="Thorfinn05" /></p>
 
