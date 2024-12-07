@@ -5,7 +5,7 @@
 </p>
 
 <div align="center"> <img hight="300" width="500" alt="GIF" align="center" src="https://media1.tenor.com/m/qxK3flqZIucAAAAd/anime.gif"></div>
-<h2 align="center">I'm a passionate developer and designer exploring AI, Machine Learning, Web Development and UI/UX Designing 🚀</h2>
+<h3 align="center">I'm a passionate developer and designer exploring AI, Machine Learning, Web Development and UI/UX Designing 🚀</h3>
 
 </br>
 
