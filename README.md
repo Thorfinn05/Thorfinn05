@@ -1,12 +1,11 @@
-<h1 align="center">Hi there! 👋 I'm Rudranil Das</h1>
-<h3 align="center">A passionate developer exploring AI, Machine Learning, and Web Development 🚀</h3>
+<h1 align="center">Hello Peeps! 👋 I'm Rudranil Das</h1>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Thorfinn05&label=Profile%20views&color=0e75b6&style=flat" alt="Thorfinn05" />
 </p>
 
----
-
 <div align="center"> <img hight="300" width="500" alt="GIF" align="center" src="https://media1.tenor.com/m/qxK3flqZIucAAAAd/anime.gif"></div>
+<h3 align="center">A passionate developer exploring AI, Machine Learning, and Web Development 🚀</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.webp">
