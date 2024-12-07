@@ -5,9 +5,9 @@
 </p>
 
 <div align="center"> <img hight="300" width="500" alt="GIF" align="center" src="https://media1.tenor.com/m/qxK3flqZIucAAAAd/anime.gif"></div>
-<h3 align="center">I'm passionate developer and designer exploring AI, Machine Learning, Web Development and UI/UX Designing 🚀</h3>
+<h3 align="center">I'm a passionate developer and designer exploring AI, Machine Learning, Web Development and UI/UX Designing 🚀</h3>
 
----
+
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.webp">
 
