@@ -1,4 +1,4 @@
-<iframe hight="300" width="500" alt="GIF" align="center" src="https://giphy.com/embed/fhAwk4DnqNgw8" width="480" height="259" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/life-school-college-fhAwk4DnqNgw8">via GIPHY</a></p>
+<img hight="300" width="500" alt="GIF" align="center" src="https://giphy.com/embed/fhAwk4DnqNgw8">
 
 <h1 align="center">Hi there! 👋 I'm Rudranil Das</h1>
 <h3 align="center">A passionate developer exploring AI, Machine Learning, and Web Development 🚀</h3>
