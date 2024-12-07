@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/qxK3flqZIucAAAAd/anime.gif" alt="Online GIF" width="300">
+<img hight="300" width="500" alt="GIF" align="center" src="https://media1.tenor.com/m/qxK3flqZIucAAAAd/anime.gif">
 
 <h1 align="center">Hi there! 👋 I'm Rudranil Das</h1>
 <h3 align="center">A passionate developer exploring AI, Machine Learning, and Web Development 🚀</h3>
