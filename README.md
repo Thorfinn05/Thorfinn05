@@ -136,6 +136,6 @@
 
 <h1 align="center">Watch the 🐍 eat my contribution graph</h1>
 <p align="center">
-  <img src="https://github.com/Thorfinn05/Thorfinn05/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+  <img src="https://github.com/Thorfinn05/Thorfinn05/blob/output/github-contribution-grid-snake.png" alt="Snake Animation">
 </p>
 
