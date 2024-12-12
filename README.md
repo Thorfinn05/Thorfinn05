@@ -12,7 +12,7 @@
 <h1 align="left">About Me 💬 </h1>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.webp">
 
-- 🌱 I’m currently learning **Next.js, React.js, NLP.**  
+- 🌱 I’m currently learning **Next.js, React.js, NLP.** 
 - 💬 Ask me about **DSA, Python, C and Web Development.**  
 - 📫 How to reach me:  
   <a href="mailto:rudranild04@gmail.com" target="blank">
