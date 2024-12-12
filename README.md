@@ -13,7 +13,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.webp">
 
 - 🌱 I’m currently learning **Next.js, React.js, NLP.** 
-- 💬 Ask me about **DSA, Python, C and Web Development.**  
+- 💬 Ask me about **DSA, Python, C and Web Development.** 
 - 📫 How to reach me:  
   <a href="mailto:rudranild04@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
