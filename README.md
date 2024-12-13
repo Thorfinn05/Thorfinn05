@@ -40,9 +40,9 @@
   <a href="https://www.instagram.com/thorfinn.d.rudra_05/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40">
   </a>
-<!--   <a href="mailto:rudranild04@gmail.com" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/non_2x/gmail-icon-free-png.png" alt="Gmail" width="40" height="40">
-  </a> -->
+  <a href="mailto:rudranild04@gmail.com" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40">
+  </a>
 </p>
 
 ---
@@ -83,25 +83,25 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40">
           </a>
           <a href="https://nextjs.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40">
+            <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" width="40" height="40">
           </a>
           <a href="https://nodejs.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40">
+            <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" width="40" height="40">
           </a>
         </p>
       <h4>AI & Data Science:</h4>
         <p>
           <a href="https://numpy.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="40" height="40">
+            <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" alt="NumPy" width="40" height="40">
           </a>
           <a href="https://pandas.pydata.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40">
+            <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Pandas" width="40" height="40">
           </a>
           <a href="https://www.tensorflow.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="40" height="40">
+            <img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" width="40" height="40">
           </a>
           <a href="https://flask.palletsprojects.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40">
+            <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" width="40" height="40">
           </a>
         </p>
     </td>
@@ -112,7 +112,7 @@
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40">
           </a>
           <a href="https://github.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40">
+            <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" width="40" height="40">
           </a>
           <a href="https://code.visualstudio.com/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40">
@@ -137,6 +137,33 @@
           </a>
           <a href="https://www.canva.com/" target="_blank">
             <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="Canva" width="40" height="40">
+          </a>
+          <a href="https://www.lucidchart.com" target="_blank">
+            <img src="https://cdn.productivity.directory/tools/2f7d5938-4427-4f3b-81c1-084f6d5ef70a" alt="Lucidchart" width="40" height="40">
+          </a>
+        </p>
+        <h4>Others:</h4>
+        <p>
+          <a href="https://www.arduino.cc" target="_blank">
+            <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40">
+          </a>
+          <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank">
+            <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png" alt="Microsoft PowerPoint" width="40" height="40">
+          </a>
+          <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+            <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Microsoft Excel" width="40" height="40">
+          </a>
+          <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank">
+            <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019.png" alt="Microsoft Word" width="40" height="40">
+          </a>
+          <a href="https://www.google.com/sheets/about/" target="_blank">
+            <img src="https://img.icons8.com/color/48/000000/google-sheets.png" alt="Google Sheets" width="40" height="40">
+          </a>
+          <a href="https://ai.google/" target="_blank">
+            <img src="https://static.vecteezy.com/system/resources/previews/046/861/646/non_2x/gemini-icon-on-a-transparent-background-free-png.png" alt="Gemini AI" width="50" height="50">
+          </a>
+          <a href="https://chat.openai.com/" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40" height="40">
           </a>
         </p>
     </td>
