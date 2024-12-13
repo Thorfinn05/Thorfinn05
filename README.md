@@ -195,3 +195,9 @@
 <br>
 
 ---
+
+<!--## 🎖️ Achievements and Badges:
+[![An image of @thorfinn05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thorfinn05)](https://holopin.io/@thorfinn05)
+
+---
+-->
