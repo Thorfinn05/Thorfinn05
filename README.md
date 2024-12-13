@@ -43,7 +43,9 @@
 ---
 
 <h3 align="left">🛠️ Technologies & Tools:</h3>
-<h4>Programming Languages:</h4>
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex:1; margin-right: 20px;" >
+  <h4>Programming Languages:</h4>
 <p>
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40">
@@ -83,8 +85,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40">
   </a>
 </p>
-
-<h4>AI & Data Science:</h4>
+</div>
+<div style="flex:1;" >
+  <h4>AI & Data Science:</h4>
 <p>
   <a href="https://numpy.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="40" height="40">
@@ -128,6 +131,9 @@
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="Canva" width="40" height="40">
   </a>
 </p>
+</div>
+</div>
+
 
 ---
 
