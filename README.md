@@ -38,6 +38,9 @@
   <a href="https://www.instagram.com/thorfinn.d.rudra_05/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40">
   </a>
+<!--   <a href="mailto:rudranild04@gmail.com" target="_blank">
+    <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/non_2x/gmail-icon-free-png.png" alt="Gmail" width="40" height="40">
+  </a> -->
 </p>
 
 ---
