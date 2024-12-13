@@ -1,30 +1,32 @@
-![gitartwork](gitartwork.svg)
-<h1 align="center">Hello Peeps! 👋</h1>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Thorfinn05&label=Profile%20views&color=0e75b6&style=flat" alt="Thorfinn05" />
 </p>
 
+<h1 align="center">Hello Peeps! 👋 I'm Rudranil 🦕</h1>
+<div align="center">
+  
+  ![gitartwork](gitartwork.svg)
+  
+</div>
+
 <div align="center"> <img hight="300" width="500" alt="GIF" align="center" src="https://media1.tenor.com/m/qxK3flqZIucAAAAd/anime.gif"></div>
-<h3 align="center">I'm a passionate developer and designer exploring AI, Machine Learning, Web Development and UI/UX Designing 🚀</h3>
+<h3 align="center">A passionate developer and designer pursuing B.Tech in CSE-AIML while exploring Web Development, UI/UX Designing and AI-ML 🚀</h3>
 
 ---
 
-<h1 align="left">About Me 💬 </h1>
+## 💬 About Me:  
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.webp">
 
 - 🌱 I’m currently learning **Next.js, React.js, NLP.** 
-- 💬 Ask me about **DSA, Python, C and Web Development.** 
-- 📫 How to reach me:  
-  <a href="mailto:rudranild04@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>  
-  <a href="https://www.linkedin.com/in/rudranil-das-47175031a/" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>  
-  <a href="https://www.instagram.com/thorfinn.d.rudra_05/" target="blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>  
+- 💬 Ask me about **DSA, Python, C and Web Development.**
+- 🔭 Loves Gaming, Watching Anime, Reading Story Books, Painting, Coding and Learning about new things
+- 📫 How to reach me:
+  <div>
+    <a href="mailto:rudranild04@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>  
+    <a href="https://www.linkedin.com/in/rudranil-das-47175031a/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
+    <a href="https://www.instagram.com/thorfinn.d.rudra_05/" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  </div> 
+    
 
 - ⚡ Fun fact: **The best way to predict the future is to code it.**
 
