@@ -131,11 +131,23 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thorfinn05&show_icons=true&locale=en&layout=compact" alt="Thorfinn05" /></p>
+## 📊 GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Thorfinn05&show_icons=true&locale=en" alt="Thorfinn05" /></p>
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thorfinn05&layout=compact&theme=highcontrast" alt=Thorfinn05 />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thorfinn05&" alt="Thorfinn05" /></p>
-<!-- Adding the requested image with text -->
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Thorfinn05&show_icons=true&locale=en&theme=highcontrast" alt="Thorfinn05" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thorfinn05&theme=neon_dark" alt="Thorfinn05" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/Thorfinn05">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thorfinn05&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thorfinn05&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thorfinn05&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thorfinn05&theme=highcontrast" height="180em" />
+</div>
+<br>
 
 ---
