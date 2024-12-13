@@ -7,10 +7,10 @@
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v3
-       - uses: thorfinn05/gitartwork@v1
+       - uses: jasineri/gitartwork@v1
          with:
             # Use this username's contribution graph  
-            user_name: thorfinn05
+            user_name: Thorfinn05
             # Text on contribution graph 
             text: RUDRANIL
-       - uses: thorfinn05/simple-push-action@v1
+       - uses: jasineri/simple-push-action@v1
