@@ -211,16 +211,17 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Thorfinn05&theme=merko&no-frame=false&no-bg=false&margin-w=4)
 
-### Last Listened to :
+<!--### Last Listened to :
 
 <div align="center">
   <a href="https://open.spotify.com/user/sjo3k78aqoqrt4c90l7i8ima5">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vzsladd5jbnxtgtmtnkml45km4&count=7&unique=true" alt="Spotify recently played"  />
   </a>
-</div>
+</div>-->
 
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+### 189 days left until Anish's birthday!
 ---
