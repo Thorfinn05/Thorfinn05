@@ -214,7 +214,7 @@
 ### Last Listened to :
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31vzsladd5jbnxtgtmtnkml45km4">
+  <a href="https://open.spotify.com/user/sjo3k78aqoqrt4c90l7i8ima5">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vzsladd5jbnxtgtmtnkml45km4&count=7&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
