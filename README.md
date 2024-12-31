@@ -200,11 +200,23 @@
 [![An image of @thorfinn05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thorfinn05)](https://holopin.io/@thorfinn05)
 
 ---
-
+-->
 
 ## Github Graph:
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thorfinn05&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
--->
 
+<p><h2 style="text-decoration: none; cursor: none;">🏆 <span style="color: #00c2e0">GitHub Trophies:</span></h2></p>
+
+![](https://github-profile-trophy.vercel.app/?username=Thorfinn05&theme=merko&no-frame=false&no-bg=false&margin-w=4)
+
+### Last Listened to :
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31vzsladd5jbnxtgtmtnkml45km4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vzsladd5jbnxtgtmtnkml45km4&count=7&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+---
