@@ -223,5 +223,5 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 189 days left until Anish's birthday!
+### 189 days left until Rudranil's birthday!
 ---
