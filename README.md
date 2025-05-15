@@ -73,9 +73,9 @@
           <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
             <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40">
           </a>
-          <a href="https://getbootstrap.com" target="_blank">
+<!--           <a href="https://getbootstrap.com" target="_blank">
             <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40"   height="40">
-          </a>
+          </a> -->
           <a href="https://tailwindcss.com/" target="_blank">
             <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" width="40" height="40">
           </a>
@@ -88,6 +88,15 @@
           <a href="https://nodejs.org/" target="_blank">
             <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" width="40" height="40">
           </a>
+          <a href="https://firebase.google.com/" target="_blank">
+            <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40">
+          </a>
+          <a href="https://supabase.com/" target="_blank">
+            <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40">
+          </a>
+<!--           <a href="https://clerk.dev/" target="_blank">
+            <img src="https://avatars.githubusercontent.com/u/80113098?s=200&v=4" alt="Clerk" width="40" height="40">
+          </a> -->
         </p>
       <h4>AI & Data Science:</h4>
         <p>
