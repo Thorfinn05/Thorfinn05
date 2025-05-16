@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Next.js, React.js, NLP.** 
 - 💬 Ask me about **DSA, Python, C and Web Development.**
-- 🔭 Loves Gaming, Watching Anime, Reading Story Books, Painting, Coding and Learning about new thing
+- 🔭 Loves Gaming, Watching Anime, Reading Story Books, Painting, Coding and Learning about new things
 - 📫 How to reach me:
   <div>
     <a href="mailto:rudranild04@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>  
