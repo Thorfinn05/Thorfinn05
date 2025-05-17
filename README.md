@@ -12,7 +12,7 @@
 <div align="center"> <img hight="300" width="500" alt="GIF" align="center" src="https://media1.tenor.com/m/qxK3flqZIucAAAAd/anime.gif"></div>
 <h3 align="center">A passionate developer and designer pursuing B.Tech in CSE-AIML while exploring Web Development, UI/UX Designing and AI-ML 🚀</h3>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💬 About Me:  
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.webp">
@@ -30,7 +30,7 @@
 
 - ⚡ Fun fact: **The best way to predict the future is to code it.**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Connect with me:
 <p align="left">
@@ -45,7 +45,7 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Technologies & Tools:
 <table align="center">
@@ -182,7 +182,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Stats:
 
@@ -217,6 +217,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thorfinn05&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p><h2 style="text-decoration: none; cursor: none;">🏆 <span style="color: #00c2e0">GitHub Trophies:</span></h2></p>
 
@@ -230,9 +231,14 @@
   </a>
 </div>-->
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 76 days left until Rudranil's birthday!
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
