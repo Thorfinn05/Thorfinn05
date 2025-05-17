@@ -48,7 +48,7 @@
 ---
 
 ## 🛠️ Technologies & Tools:
-<table>
+<table align="center">
     <td>
         <h4>Programming Languages:</h4>
         <p>
