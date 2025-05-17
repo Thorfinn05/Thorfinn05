@@ -186,7 +186,7 @@
 
 ## 📊 GitHub Stats:
 
-<h3 align="left">Stars</h3>
+<h3 align="center">Stars</h3>
 <div align="center">
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thorfinn05&layout=compact&theme=highcontrast" alt=Thorfinn05 />
 
@@ -205,7 +205,7 @@
 </div>
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--## 🎖️ Achievements and Badges:
 [![An image of @thorfinn05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thorfinn05)](https://holopin.io/@thorfinn05)
