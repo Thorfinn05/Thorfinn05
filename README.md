@@ -31,7 +31,7 @@
 - ⚡ Fun fact: **The best way to predict the future is to code it.**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<!--
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/rudranil-das-47175031a/" target="blank">
@@ -44,9 +44,8 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40">
   </a>
 </p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+-->
 ## 🛠️ Technologies & Tools:
 <table align="center">
     <td>
