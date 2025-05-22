@@ -15,7 +15,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💬 About Me:  
-<a align="right" alt="Coding" width="400" src="/profile.mp4">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.webp">
 
 - 🌱 I’m currently learning **Next.js, React.js, NLP.** 
 - 💬 Ask me about **DSA, Python, C and Web Development.**
