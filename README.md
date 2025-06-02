@@ -17,7 +17,7 @@
 ## 💬 About Me:  
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.webp">
 
-- 🌱 I’m currently learning **Next.js, React.js, NLP.** 
+- 🌱 I’m currently learning **Next.js, AI Fundamentals, NLP, Computer Vision, DevOps Basics** 
 - 💬 Ask me about **DSA, Python, C and Web Development.**
 - 🔭 Loves Gaming, Watching Anime, Reading Story Books, Painting, Coding and Learning about new things.
 - 📫 How to reach me:
