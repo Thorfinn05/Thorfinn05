@@ -17,9 +17,9 @@
 ## 💬 About Me:  
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.webp">
 
-- 🌱 I’m currently learning **Next.js, AI Fundamentals, NLP, Computer Vision, DevOps Basics, Web3.** 
+- 🌱 I’m currently learning **AI Fundamentals, NLP, Computer Vision, DevOps Basics, Web3.** 
 - 💬 Ask me about **DSA, Python, C and Web Development.**
-- 🔭 Loves Gaming, Watching Anime, Reading Story Books, Painting, Coding and Learning about new things.
+- 🔭 Loves Gaming, Watching Anime, Reading Story Books, Sketching, Coding and Learning about new things.
 - 📫 How to reach me:
   <div>
     <a href="mailto:rudranild04@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>  
