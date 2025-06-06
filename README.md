@@ -186,7 +186,7 @@
 
 ## 📊 GitHub Stats:
 
-<h3 align="center">Stars</h3>
+<!--<h3 align="center">Stars</h3>-->
 <div align="center">
   
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thorfinn05&layout=compact&theme=highcontrast" alt=Thorfinn05 />
