@@ -221,6 +221,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<img align="center" height="180em" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=3526&api_domain=hackatime.hackclub.com&theme=gruvbox&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Thorfinn05" />
+
+<!--{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}-->
+
+
 <p><h2 style="text-decoration: none; cursor: none;">🏆 <span style="color: #00c2e0">GitHub Trophies:</span></h2></p>
 
 ![](https://github-profile-trophy.vercel.app/?username=Thorfinn05&theme=merko&no-frame=false&no-bg=false&margin-w=4)
