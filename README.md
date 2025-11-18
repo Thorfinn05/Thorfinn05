@@ -8,7 +8,7 @@
   ![gitartwork](gitartwork.svg)
   
 </div>
-**232** days left for Rudranil's birthday 🎂
+<!-- **232** days left for Rudranil's birthday 🎂 -->
 
 <div align="center"> <img hight="300" width="500" alt="GIF" align="center" src="https://media1.tenor.com/m/qxK3flqZIucAAAAd/anime.gif"></div>
 <h3 align="center">A passionate developer and designer pursuing B.Tech in CSE-AIML while exploring Web Development, UI/UX Designing and AI-ML 🚀</h3>
