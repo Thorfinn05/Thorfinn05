@@ -3,7 +3,7 @@ name: Update Birthday Counter
 on:
   # Runs on a schedule (every day at 1:00 AM UTC)
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '30 18 * * *'
     
   # Allows you to run this workflow manually from the Actions tab
   # (Good for testing!)
