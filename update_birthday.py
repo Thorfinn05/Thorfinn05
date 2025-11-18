@@ -45,7 +45,7 @@ def update_readme():
         message = f"**{days}** days left for Rudranil's birthday 🎂"
 
     # Use regex to find and replace the content between markers
-    pattern = f"{re.escape(start_marker)}(.*){re.escape(end_marker)}"
+    pattern = f"{re.escape(start_marker)}(.*?){re.escape(end_marker)}"
     
     # Use re.DOTALL to make '.' match newlines
     new_content = re.sub(pattern, f"{start_marker}\n{message}\n{end_marker}", content, flags=re.DOTALL)
