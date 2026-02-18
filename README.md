@@ -52,25 +52,27 @@
 
 <h3 align="center">👨‍💻 Programming Languages</h3>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" /> 
+  <img src="https://skillicons.dev/icons?i=c,python,java" /> 
 </p>
 
 <h3 align="center">🌐 Web Development</h3>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind,firebase,supabase" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind" /> <br/> 
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,supabase,postgresql,mysql" />
 </p>
 
 <h3 align="center">🤖 AI & Data Science</h3>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,flask,django" /> <br/> 
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,flask,django,pytorch,scikitlearn" /> <br/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/> 
-  <img src="https://yt3.googleusercontent.com/ytc/AIdro_l03tVsirSpMS45P1MdU_4zrXAkz0aP0p-TyiD4Smbe1w=s900-c-k-c0x00ffffff-no-rj" width="48"/>
+  <img src="https://yt3.googleusercontent.com/ytc/AIdro_l03tVsirSpMS45P1MdU_4zrXAkz0aP0p-TyiD4Smbe1w=s900-c-k-c0x00ffffff-no-rj" width="48" style="border-radius: 12px;"/>
+  <img src="https://images.seeklogo.com/logo-png/59/1/ollama-logo-png_seeklogo-593420.png" width="48" style="border-radius: 12px;"/>
 </p>
 
 <h3 align="center">🧰 Tools</h3>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,vercel,aws" /> <br/> 
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,vercel,aws,docker" /> <br/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48"/> 
   <img src="https://hdrobots.com/wp-content/uploads/2025/07/kiro-dev-logo.webp" width="48" style="border-radius: 12px;"/>
 </p>
