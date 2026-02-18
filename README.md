@@ -49,6 +49,52 @@
 -->
 
 ## 🛠️ Technologies & Tools:
+
+<h3 align="center">👨‍💻 Programming Languages</h3>
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" /> 
+</p>
+
+<h3 align="center">🌐 Web Development</h3>
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind,firebase,supabase" /> 
+</p>
+
+<h3 align="center">🤖 AI & Data Science</h3>
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,flask,django" /> <br/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/> 
+  <img src="https://yt3.googleusercontent.com/ytc/AIdro_l03tVsirSpMS45P1MdU_4zrXAkz0aP0p-TyiD4Smbe1w=s900-c-k-c0x00ffffff-no-rj" width="48"/>
+</p>
+
+<h3 align="center">🧰 Tools</h3>
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,vercel,aws" /> <br/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48"/> 
+  <img src="https://hdrobots.com/wp-content/uploads/2025/07/kiro-dev-logo.webp" width="48" style="border-radius: 12px;"/>
+</p>
+
+<h3 align="center">🎨 Design</h3>
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=figma,blender" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48"/> 
+  <img src="https://cdn.productivity.directory/tools/2f7d5938-4427-4f3b-81c1-084f6d5ef70a" alt="Lucidchart" width="48"/>
+</p>
+
+<h3 align="center">🛠️ Others</h3>
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=arduino" /> 
+  <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019.png"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/1280px-Claude_AI_symbol.svg.png" width="48"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Google_Gemini_icon_2025.svg/250px-Google_Gemini_icon_2025.svg.png" width="48"/>
+  <!--<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysfvFgHMVChk-7glLKWvdIJLLoA2aau0m1g&s" width="48"/> -->
+</p>
+
+<!--
 <table align="center">
     <td>
         <h4>Programming Languages:</h4>
@@ -77,9 +123,9 @@
           <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
             <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40">
           </a>
-<!--           <a href="https://getbootstrap.com" target="_blank">
+          <a href="https://getbootstrap.com" target="_blank">
             <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40"   height="40">
-          </a> -->
+          </a> 
           <a href="https://tailwindcss.com/" target="_blank">
             <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" width="40" height="40">
           </a>
@@ -98,9 +144,9 @@
           <a href="https://supabase.com/" target="_blank">
             <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40">
           </a>
-<!--           <a href="https://clerk.dev/" target="_blank">
+         <a href="https://clerk.dev/" target="_blank">
             <img src="https://avatars.githubusercontent.com/u/80113098?s=200&v=4" alt="Clerk" width="40" height="40">
-          </a> -->
+          </a> 
         </p>
       <h4>AI & Data Science:</h4>
         <p>
@@ -139,9 +185,9 @@
           <a href="https://vercel.com" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg" alt="Vercel" width="40" height="40">
           </a>
-<!--           <a href="https://www.docker.com/" target="_blank">
+          <a href="https://www.docker.com/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40">
-          </a> -->
+          </a> 
         </p>
         <h4>Design Tools:</h4>
         <p>
@@ -169,36 +215,37 @@
           <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank">
             <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019.png" alt="Microsoft Word" width="40" height="40">
           </a>
-          <a href="https://www.google.com/sheets/about/" target="_blank">
-            <img src="https://img.icons8.com/color/48/000000/google-sheets.png" alt="Google Sheets" width="40" height="40">
-          </a>
           <a href="https://ai.google/" target="_blank">
             <img src="https://static.vecteezy.com/system/resources/previews/046/861/646/non_2x/gemini-icon-on-a-transparent-background-free-png.png" alt="Gemini AI" width="50" height="50">
           </a>
           <a href="https://chat.openai.com/" target="_blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40" height="40">
           </a>
+          <a href="https://claude.ai/" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Claude_AI_logo.svg" alt="Claude AI" width="40" height="40">
+          </a>
         </p>
     </td>
 </table>
-  
-
-
-</div>
+-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 ## 📊 GitHub Stats:
 
 <!--<h3 align="center">Stars</h3>-->
 <div align="center">
-  
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thorfinn05&layout=compact&theme=highcontrast" alt=Thorfinn05 />
-
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Thorfinn05&show_icons=true&locale=en&theme=highcontrast" alt="Thorfinn05" />
-
-<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thorfinn05&theme=neon_dark" alt="Thorfinn05" />
-
+<div>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thorfinn05&layout=compact&theme=highcontrast" alt=Thorfinn05 />
+</div>
+<div>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Thorfinn05&show_icons=true&locale=en&theme=highcontrast" alt="Thorfinn05" />
+</div>
+<div>
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thorfinn05&theme=neon_dark" alt="Thorfinn05" />
+</div>
 </div>
 
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>-->
@@ -206,8 +253,8 @@
 <a href="https://github.com/Thorfinn05">
 <!--<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thorfinn05&theme=highcontrast" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thorfinn05&theme=highcontrast" height="180em" />-->
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thorfinn05&theme=highcontrast" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thorfinn05&theme=highcontrast" height="180em" />
+<div><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thorfinn05&theme=highcontrast" height="180em" /></div>
+<div><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thorfinn05&theme=highcontrast" height="180em" /></div>
 </div>
 <br>
 
