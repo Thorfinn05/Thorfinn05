@@ -304,4 +304,4 @@
 *Checking the calendar...*
 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- **232** days left for Rudranil's birthday 🎂 -->
+<!-- **230** days left for Rudranil's birthday 🎂 -->
