@@ -30,7 +30,7 @@ jobs:
     
     - name: Update weather
       run: |
-        python update_profile_weather.py
+        python update_profile_weather_v2.py
     
     - name: Check and commit changes
       run: |
