@@ -14,12 +14,10 @@ import urllib.error
 def get_weather():
     """Fetch weather data from Open-Meteo API (no auth required)"""
     try:
-        # Default location: Kolkata, India (near your location)
-        # Coordinates: 22.5726° N, 88.3639° E
-        # Change these coordinates for your exact location
+        # Location: Kolkata, India
         latitude = 22.5726
         longitude = 88.3639
-        location_name = "Kolkata, West Bengal, India"
+        location_name = "Kolkata, India"
         
         # Open-Meteo API - free, no authentication required
         url = (f"https://api.open-meteo.com/v1/forecast?"
@@ -28,9 +26,12 @@ def get_weather():
                f"precipitation,weather_code,cloud_cover,wind_speed_10m,wind_direction_10m"
                f"&timezone=auto")
         
+        print(f"Fetching weather from: {url}")
+        
         with urllib.request.urlopen(url, timeout=10) as response:
             data = json.loads(response.read().decode())
             data['location_name'] = location_name
+            print("Weather data fetched successfully!")
             return data
     except urllib.error.URLError as e:
         print(f"Error fetching weather: {e}")
@@ -42,7 +43,7 @@ def get_weather():
 def format_weather_compact(data):
     """Format weather data in a compact format for profile README"""
     if not data:
-        return "Weather data unavailable"
+        return "⚠️ Weather data temporarily unavailable"
     
     try:
         current = data['current']
@@ -84,16 +85,15 @@ def format_weather_compact(data):
         wind = current.get('wind_speed_10m', 'N/A')
         
         # Compact format for profile
-        weather_info = f"""### {weather_emoji} Current Weather in {location}
+        weather_info = f"""**{temp}°C** (feels like {feels_like}°C) • {weather_emoji} {weather_desc} • 💧 {humidity}% • 💨 {wind} km/h
 
-**{temp}°C** (feels like {feels_like}°C) • {weather_desc} • 💧 {humidity}% • 💨 {wind} km/h
-
-*Updated: {datetime.utcnow().strftime('%B %d, %Y at %H:%M UTC')}*"""
+*Last updated: {datetime.utcnow().strftime('%B %d, %Y at %H:%M UTC')}*"""
         
+        print("Weather data formatted successfully!")
         return weather_info
     except (KeyError, IndexError) as e:
         print(f"Error parsing weather data: {e}")
-        return "Weather data format error"
+        return "⚠️ Weather data format error"
 
 def update_profile_readme(weather_info):
     """Update the profile README.md with weather information"""
@@ -104,13 +104,18 @@ def update_profile_readme(weather_info):
     try:
         with open(readme_path, 'r', encoding='utf-8') as f:
             content = f.read()
+        print(f"README.md read successfully! Length: {len(content)} characters")
     except FileNotFoundError:
-        print("README.md not found!")
+        print("❌ ERROR: README.md not found!")
         return False
     
     # Define the markers for the weather section
     start_marker = "<!-- WEATHER:START -->"
     end_marker = "<!-- WEATHER:END -->"
+    
+    print(f"Looking for markers...")
+    print(f"Start marker found: {start_marker in content}")
+    print(f"End marker found: {end_marker in content}")
     
     # Check if markers exist
     if start_marker in content and end_marker in content:
@@ -118,35 +123,56 @@ def update_profile_readme(weather_info):
         pattern = f"{re.escape(start_marker)}.*?{re.escape(end_marker)}"
         replacement = f"{start_marker}\n{weather_info}\n{end_marker}"
         new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+        
+        print("Weather section updated!")
     else:
-        print("Weather markers not found in README.md")
-        print("Please add the following markers to your README.md where you want the weather to appear:")
-        print("\n<!-- WEATHER:START -->")
-        print("<!-- WEATHER:END -->\n")
+        print("❌ ERROR: Weather markers not found in README.md")
+        print("\nPlease add these markers to your README.md:")
+        print(f"\n{start_marker}")
+        print(f"{end_marker}\n")
+        
+        # Show the area around where markers might be
+        if "Current Weather" in content:
+            idx = content.index("Current Weather")
+            print(f"Found 'Current Weather' at position {idx}")
+            print("Context around it:")
+            print(content[max(0, idx-100):min(len(content), idx+200)])
+        
         return False
     
     # Write updated content
-    with open(readme_path, 'w', encoding='utf-8') as f:
-        f.write(new_content)
-    
-    print("README.md updated successfully!")
-    return True
+    try:
+        with open(readme_path, 'w', encoding='utf-8') as f:
+            f.write(new_content)
+        print("✅ README.md written successfully!")
+        return True
+    except Exception as e:
+        print(f"❌ ERROR writing README.md: {e}")
+        return False
 
 def main():
     """Main function"""
-    print("Fetching weather data...")
+    print("=" * 50)
+    print("Weather Update Script Starting...")
+    print("=" * 50)
+    
+    print("\n1. Fetching weather data...")
     weather_data = get_weather()
     
-    print("Formatting weather information...")
+    print("\n2. Formatting weather information...")
     weather_info = format_weather_compact(weather_data)
+    print(f"Weather info preview:\n{weather_info}\n")
     
-    print("Updating profile README.md...")
+    print("3. Updating profile README.md...")
     success = update_profile_readme(weather_info)
     
+    print("\n" + "=" * 50)
     if success:
-        print("Done!")
+        print("✅ SUCCESS! README.md updated with weather data")
     else:
-        print("Failed to update README.md")
+        print("❌ FAILED! Could not update README.md")
+        print("Check the errors above for details")
+    print("=" * 50)
 
 if __name__ == "__main__":
     main()
