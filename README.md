@@ -305,3 +305,9 @@
 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- **230** days left for Rudranil's birthday 🎂 -->
+
+### ☀️ Current Weather in Kolkata, India
+<!-- WEATHER:START -->
+<!-- WEATHER:END -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
