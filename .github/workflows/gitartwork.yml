@@ -1,16 +1,52 @@
- name: gitartwork from a contribution graph
- on: 
-   push:
- jobs:
-   build:
-     name: Make gitartwork SVG
-     runs-on: ubuntu-latest
-     steps:
-       - uses: actions/checkout@v3
-       - uses: jasineri/gitartwork@v1
-         with:
-            # Use this username's contribution graph  
-            user_name: Thorfinn05
-            # Text on contribution graph 
-            text: RUDRANIL
-       - uses: jasineri/simple-push-action@v1
+ # name: gitartwork from a contribution graph
+ # on: 
+ #   push:
+ # jobs:
+ #   build:
+ #     name: Make gitartwork SVG
+ #     runs-on: ubuntu-latest
+ #     steps:
+ #       - uses: actions/checkout@v3
+ #       - uses: jasineri/gitartwork@v1
+ #         with:
+ #            # Use this username's contribution graph  
+ #            user_name: Thorfinn05
+ #            # Text on contribution graph 
+ #            text: RUDRANIL
+ #       - uses: jasineri/simple-push-action@v1
+
+name: gitartwork from a contribution graph
+on: 
+  push:
+    branches: [ main ]
+    paths-ignore:
+      - 'README.md'  # Don't trigger on README changes to avoid conflicts with weather workflow
+  workflow_dispatch:  # Allow manual trigger
+  
+jobs:
+  build:
+    name: Make gitartwork SVG
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch full history
+      
+      - name: Pull latest changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull origin main
+      
+      - uses: jasineri/gitartwork@v1
+        with:
+           # Use this username's contribution graph  
+           user_name: Thorfinn05
+           # Text on contribution graph 
+           text: RUDRANIL
+      
+      - name: Pull before push (avoid conflicts)
+        run: |
+          git pull --rebase origin main
+      
+      - uses: jasineri/simple-push-action@v1
