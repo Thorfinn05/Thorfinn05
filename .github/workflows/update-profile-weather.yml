@@ -1,0 +1,57 @@
+name: Update Profile Weather
+
+on:
+  # Run every 2 hours
+  schedule:
+    - cron: '0 */2 * * *'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+
+# Add permissions for the GITHUB_TOKEN
+permissions:
+  contents: write
+
+jobs:
+  update-weather:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Fetch weather data and update README
+      run: |
+        python update_profile_weather.py
+    
+    - name: Check for changes
+      id: check_changes
+      run: |
+        if git diff --quiet README.md; then
+          echo "changed=false" >> $GITHUB_OUTPUT
+          echo "No changes detected in README.md"
+        else
+          echo "changed=true" >> $GITHUB_OUTPUT
+          echo "Changes detected in README.md"
+        fi
+    
+    - name: Commit and push changes
+      if: steps.check_changes.outputs.changed == 'true'
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add README.md
+        git commit -m "🌤️ Auto-update weather data"
+        git push origin main
+    
+    - name: No changes to commit
+      if: steps.check_changes.outputs.changed != 'true'
+      run: |
+        echo "✅ Weather data is already up to date"
