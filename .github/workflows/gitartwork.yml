@@ -20,33 +20,52 @@ on:
   push:
     branches: [ main ]
     paths-ignore:
-      - 'README.md'  # Don't trigger on README changes to avoid conflicts with weather workflow
+      - 'README.md'  # Don't trigger on README changes
   workflow_dispatch:  # Allow manual trigger
   
+permissions:
+  contents: write
+
 jobs:
   build:
     name: Make gitartwork SVG
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # Fetch full history
+          fetch-depth: 0
       
-      - name: Pull latest changes
+      - name: Pull latest changes first
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git pull origin main
       
-      - uses: jasineri/gitartwork@v1
+      - name: Generate gitartwork
+        uses: jasineri/gitartwork@v1
         with:
-           # Use this username's contribution graph  
            user_name: Thorfinn05
-           # Text on contribution graph 
            text: RUDRANIL
       
-      - name: Pull before push (avoid conflicts)
+      - name: Commit and push with conflict resolution
         run: |
-          git pull --rebase origin main
-      
-      - uses: jasineri/simple-push-action@v1
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Check if there are changes
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "Update gitartwork" || echo "No changes to commit"
+            
+            # Pull with rebase and push
+            git pull --rebase origin main || {
+              echo "Rebase failed, trying merge strategy"
+              git rebase --abort
+              git pull origin main
+            }
+            
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
