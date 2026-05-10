@@ -38,8 +38,8 @@ jobs:
       
       - name: Pull latest changes first
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "Thorfinn05"
+          git config user.email "rudranild04@gmail.com"
           git pull origin main
       
       - name: Generate gitartwork
@@ -50,8 +50,8 @@ jobs:
       
       - name: Commit and push with conflict resolution
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "Thorfinn05"
+          git config user.email "rudranild04@gmail.com"
           
           # Check if there are changes
           if [ -n "$(git status --porcelain)" ]; then
