@@ -308,11 +308,9 @@
 
 
 <!-- WEATHER:START -->
-### ☀️ Current Weather in Kolkata, West Bengal, India
+**28.3°C** (feels like 34.1°C) • ⛅ Partly cloudy • 💧 72% • 💨 2.0 km/h
 
-**26.1°C** (feels like 31.5°C) • Clear sky • 💧 86% • 💨 3.1 km/h
-
-*Updated: May 09, 2026 at 15:11 UTC*
+*Last updated: May 10, 2026 at 03:36 UTC*
 <!-- WEATHER:END -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
