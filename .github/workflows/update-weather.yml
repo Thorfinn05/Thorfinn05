@@ -34,7 +34,7 @@ jobs:
     
     - name: Check and commit changes
       run: |
-        git config user.name "github-actions[bot]"
+        git config user.name "Thorfinn05"
         git config user.email "rudranild04@gmail.com"
         
         if git diff --quiet README.md; then
