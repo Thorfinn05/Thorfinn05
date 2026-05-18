@@ -308,9 +308,9 @@
 
 
 <!-- WEATHER:START -->
-**28.8°C** (feels like 34.8°C) • ⛈️ Thunderstorm • 💧 90% • 💨 13.5 km/h
+**33.5°C** (feels like 40.9°C) • ⛈️ Thunderstorm • 💧 70% • 💨 12.0 km/h
 
-*Last updated: May 17, 2026 at 19:14 UTC*
+*Last updated: May 18, 2026 at 03:58 UTC*
 <!-- WEATHER:END -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
