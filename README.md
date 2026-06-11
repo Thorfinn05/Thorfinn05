@@ -308,7 +308,9 @@
 
 
 <!-- WEATHER:START -->
-⚠️ Weather data temporarily unavailable
+**27.8°C** (feels like 34.5°C) • ⛅ Partly cloudy • 💧 91% • 💨 6.1 km/h
+
+*Last updated: June 11, 2026 at 16:07 UTC*
 <!-- WEATHER:END -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
