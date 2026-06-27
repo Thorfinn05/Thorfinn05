@@ -16,7 +16,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💬 About Me:  
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.webp">
+<!-- <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.webp"> -->
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGIxejBpMjdkYW5wcjJqNzN1ZDV6bzBmcXloYnhrY3U4ZDd6cmV5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qTELhZuDdRSLIVkhQt/giphy.gif">
 
 - 🌱 I’m currently learning **AI Fundamentals, NLP, Computer Vision, DevOps Basics, Web3.** 
 - 💬 Ask me about **DSA, Python, C and Web Development.**
