@@ -309,9 +309,7 @@
 
 
 <!-- WEATHER:START -->
-**23.3°C** (feels like 25.3°C) • ☁️ Overcast • 💧 75% • 💨 7.6 km/h
-
-*Last updated: November 17, 2026 at 15:39 UTC*
+⚠️ Weather data temporarily unavailable
 <!-- WEATHER:END -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
